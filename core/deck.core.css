@@ -6,6 +6,14 @@ html, body {
 p, ul {
   font-size: 32px !important; }
 
+code {
+  font-size: 24px !important;
+}
+
+pre {
+  padding: 0px !important;
+}
+
 .deck-container {
   position: relative;
   min-height: 100%;
